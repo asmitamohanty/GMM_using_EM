@@ -1,4 +1,4 @@
-# GMM_using_EM
+# Algorithmic Comparison of GMM & K-Means with Manual EM Implementation
 ### Comparing KMeans &amp; GMM using EM Insights
 
 This project explores Gaussian Mixture Models (GMM) with a focus on manual implementation using Expectation-Maximization (EM) algorithm. The key goal of this project is to develop & analyze GMM clustering method with EM, followed by comparing the results with KMeans clustering. The implementation is done manually, emphasizing the probabilistic approach of GMMs. K-Means clustering is used to initialize the GMM by providing initial cluster labels, membership probabilities & other GMM parameters like mean, covariances & mixing weights. The project highlights the iterative nature of the EM algorithm and compares the clustering results of GMM with K-Means. 
